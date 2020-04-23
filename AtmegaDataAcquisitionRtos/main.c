@@ -6,7 +6,7 @@
  */ 
 
 #include <avr/io.h>
-
+#include "freeRtos/include/FreeRTOS.h"
 
 int main(void)
 {
